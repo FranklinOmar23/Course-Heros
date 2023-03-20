@@ -1,0 +1,28 @@
+2023-03-03T12:48:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\SharedType.php on line 9
+
+2023-03-03T13:02:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartOrderSummaryTaxesBlock.php on line 7
+
+2023-03-03T13:04:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-03-03T13:04:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-03-03T13:05:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-03-03T13:06:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\tutor\classes\Utils.php on line 7992
+
+2023-03-03T13:06:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 12
+
+2023-03-03T13:08:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-03-03T13:09:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-03-03T13:10:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\elementor\core\admin\ui\components\button.php on line 7
+
+2023-03-03T13:12:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\themes\astra\inc\builder\type\footer\copyright\class-astra-footer-copyright-component.php on line 12
+
+2023-03-03T13:40:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\pro-elements\modules\posts\widgets\portfolio.php on line 14
+
+2023-03-03T13:41:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\widgets\class-wp-widget-calendar.php on line 106
+
+2023-03-03T13:42:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-sync-library-wp-cli.php on line 12
+

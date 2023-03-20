@@ -1,0 +1,96 @@
+2023-02-28T13:07:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T15:51:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-product-shipping-classes-v1-controller.php on line 13
+
+2023-02-28T17:42:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T17:42:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T17:44:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\Requests\Transport\cURL.php on line 165
+
+2023-02-28T20:02:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\tutor-lms-elementor-addons\includes\addons\Base.php on line 17
+
+2023-02-28T20:05:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T20:17:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\pro-elements\modules\woocommerce\widgets\product-images.php on line 8
+
+2023-02-28T20:17:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4541
+
+2023-02-28T20:17:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4541
+
+2023-02-28T20:17:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4527
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4541
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\blocks.php on line 324
+
+2023-02-28T20:17:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\pomo\entry.php on line 58
+
+2023-02-28T20:17:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4541
+
+2023-02-28T20:18:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 4541
+
+2023-02-28T20:19:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\functions.php on line 6620
+
+2023-02-28T20:20:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\pro-elements\plugin.php on line 152
+
+2023-02-28T20:20:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\pro-elements\plugin.php on line 152
+
+ager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\pro-elements\modules\social\widgets\facebook-button.php on line 10
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-retina.php on line 24
+
+2023-02-28T20:20:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T20:21:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\http.php on line 553
+
+2023-02-28T20:21:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+
+2023-02-28T20:21:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-includes\class-wpdb.php on line 2187
+

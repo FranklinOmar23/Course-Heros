@@ -1,0 +1,6 @@
+2023-03-01T15:44:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\TestCheckout.php on line 12
+
+2023-03-01T15:44:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-admin\includes\translation-install.php on line 278
+
+2023-03-01T19:45:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Course-Heros\wp-content\plugins\wpforms-lite\src\Tasks\Actions\EntryEmailsTask.php on line 66
+
